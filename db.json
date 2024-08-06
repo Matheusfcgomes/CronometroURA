@@ -1,0 +1,58 @@
+{
+  "ranking": [
+    {
+      "id": "05ca",
+      "Nome": "Matheus Fernandes",
+      "Mail": "Matheus@gmail.com",
+      "Telefone": "999999999",
+      "TempoTotal": 7,
+      "Minutos": 0,
+      "Segundos": 7
+    },
+    {
+      "id": "648a",
+      "Nome": "Pedro Henrique",
+      "Mail": "pedro@hotmail.com",
+      "Telefone": "912345678",
+      "TempoTotal": 12,
+      "Minutos": 0,
+      "Segundos": 12
+    },
+    {
+      "id": "275d",
+      "Nome": "João Paulo",
+      "Mail": "joao@gmail.com",
+      "Telefone": "000000000",
+      "TempoTotal": 14,
+      "Minutos": 0,
+      "Segundos": 14
+    },
+    {
+      "id": "a249",
+      "Nome": "Thiago Gomes",
+      "Mail": "thiago@gmail.com",
+      "Telefone": "777777777",
+      "TempoTotal": 17,
+      "Minutos": 0,
+      "Segundos": 17
+    },
+    {
+      "id": "d66c",
+      "Nome": "Jean Fernandes Gomes",
+      "Mail": "jeanfgomes@hotmail.com",
+      "Telefone": "84986330201",
+      "TempoTotal": 4,
+      "Minutos": 0,
+      "Segundos": 4
+    },
+    {
+      "id": "017e",
+      "Nome": "Jean Fernandes Gomes",
+      "Mail": "jeanfgomes@hotmail.com",
+      "Telefone": "84986330201",
+      "TempoTotal": 6,
+      "Minutos": 0,
+      "Segundos": 6
+    }
+  ]
+}
